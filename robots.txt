@@ -1,0 +1,3 @@
+# Environnement dev : ne pas indexer.
+User-agent: *
+Disallow: /
